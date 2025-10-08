@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude the Room database and its -wal/-shm companions -->
+    <exclude domain="database" path="encrypted-notes.db"/>
+    <exclude domain="database" path="encrypted-notes.db-wal"/>
+    <exclude domain="database" path="encrypted-notes.db-shm"/>
+</full-backup-content>

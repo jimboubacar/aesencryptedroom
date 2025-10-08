@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aesencryptedroom</string>
+    <string name="encrypted_text_base64_iv_ct_will_appear_here">Encrypted text (Base64 IV:CT) will appear here</string>
+    <string name="save_encrypted_to_room">Save Encrypted (to Room)</string>
+    <string name="load_last_from_room">Load Last (from Room)</string>
+    <string name="result_will_appear_here">Result will appear here</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="write_your_plaintext_here">Write your plaintext here</string>
+    <string name="title">Title</string>
+    <string name="no_notes_saved_yet">No notes saved yet.</string>
+</resources>
